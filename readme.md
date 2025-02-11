@@ -1,3 +1,4 @@
+![R](https://github.com/user-attachments/assets/24613d53-7778-48b9-a169-c8b65dbae9c5)
 # Bankai Interpreter 🌮🔥
 
 A custom Python-based interpreter that allows executing `.bankai` scripts with custom keywords. **Developed by lmcteam206.**
@@ -10,6 +11,7 @@ A custom Python-based interpreter that allows executing `.bankai` scripts with c
 - **Script history saving** and viewing.
 - **Custom file extension support**.
 - **Excel-based keyword customization**.
+- 
 
 ## 🛠 Installation
 1. Clone the repository:
